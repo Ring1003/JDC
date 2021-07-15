@@ -1,8 +1,14 @@
+## 当前版本：V 1.0.5
+### 主要增加内容：
+#####             1.增加前端显示网站公告功能。（如非必要，可不更新。）
+
+### [交流反馈频道](https://t.me/jdc_jdc)
+
+![](https://raw.githubusercontent.com/dadaxiaoxiaod/JDC/main/pic2.png)  
+
 ## 当前版本：V 1.0.4
 ### 主要修复内容：
 #####             1.处理后台非cookies变量导致可新增账号数量变少的问题。
-
-### [交流反馈频道](https://t.me/jdc_jdc)
 
 ##
 
