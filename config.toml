@@ -1,6 +1,6 @@
 #公告设置
 [app]
-    explain         = "扫码后请返回页面完成登录!" #页面使用说明显示
+    explain         = "本站相关工具及技术仅供个人学习、研究使用。不得用于商业用途，否则后果自负!" #页面使用说明显示
     path            = "/docker/ql/" #QL文件路径设置，一般无需更改
     notice          = "请使用京东APP扫描二维码登录"
     QLip            = "http://127.0.0.1" #青龙面板的ip，部署于一台服务器时不用更改
@@ -25,11 +25,11 @@ Delimiters  =  ["${", "}"] #模板标签，请勿更改
 [gfcli]
     [gfcli.build]
         name     = "JDC"
-        arch     = "arm"
+        arch     = "amd64"
         system   = "linux"
         mod      = "none"
         cgo      = 0
         pack     = "public,template"
-        version  = "v1.0.2"
+        version  = "v1.0.5"
         output   = "./bin"
         extra    = ""
