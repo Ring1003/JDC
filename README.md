@@ -4,7 +4,7 @@
 
 ### [交流反馈频道](https://t.me/jdc_jdc)
 
-![](https://raw.githubusercontent.com/dadaxiaoxiaod/JDC/main/pic2.png)  
+<img src="https://raw.githubusercontent.com/dadaxiaoxiaod/JDC/main/pic2.png" width="50%">
 
 ## 当前版本：V 1.0.4
 ### 主要修复内容：
