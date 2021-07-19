@@ -1,8 +1,14 @@
+## 当前版本：V 1.0.6
+### 主要增加内容：
+#####             1.手机端访问可直接打开京东APP确认登录。
+
+### [交流反馈频道](https://t.me/jdc_jdc)
+
+## 
+
 ## 当前版本：V 1.0.5
 ### 主要增加内容：
 #####             1.增加前端显示网站公告功能。（如非必要，可不更新。如若更新此版本，前端也需要更新。）
-
-### [交流反馈频道](https://t.me/jdc_jdc)
 
 <img src="https://raw.githubusercontent.com/dadaxiaoxiaod/JDC/main/pic2.png" width="50%">
 
